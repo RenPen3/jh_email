@@ -1,0 +1,43 @@
+<mjml>
+  <mj-body background-color="#EDEDED">
+    <!-- header -->
+    <mj-section background-color="#FAFAFA" padding="0">
+      <mj-column>
+        <mj-image
+          width="200px"
+          src="https://ci3.googleusercontent.com/meips/ADKq_NZuULWRhTrd0LRFsVf-WYfHZGjOgn0bEBRIRVXLaASqWPpmCW8tG8fSxLodJPE3RsRWKrDscuzkjJ4FKLuNGUCkH1CEJcNo_8u23MoB4P6_hp4EHEJ3zz0kn8hoS79jdgselexCA6TL1O0WmC9RYPcsplF8MUYJSYxxKg=s0-d-e1-ft#https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/e3ecfe15-374c-4ed3-94ef-b07245d97852.jpeg"
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="#000000"
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section background-color="#FAFAFA" padding="0">
+      <mj-column>
+        <mj-text text-transform="uppercase" align="center">
+          It’s on us: Free Shipping & Returns
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="#000000"
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- header -->
+    <mj-section background-color="#FAFAFA" padding="0">
+      <mj-column>
+        <mj-image
+          width="600px"
+          padding="0"
+          src="https://ci3.googleusercontent.com/meips/ADKq_NY7pkaG5_cxx5b0kt4sg0PEQ3BiqVUXyrBR9kh7Otc8u5mlpdLfWR9PHpAQWmSxxJ8J5qak1VbMZIC6iGsmcE3a4jsqRaLDVkww0YID7A40uS7KhZq_x8n8I7mk2lctnhieblfPedcwikSD9rK0JR-KjSmyTOQe2hjfRw=s0-d-e1-ft#https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/dd03cf03-e076-450d-baca-f2af8cb620cd.jpeg"
+        />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
