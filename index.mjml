@@ -3,7 +3,7 @@
     <!-- header -->
     <mj-section background-color="#FFFFFF" padding="0">
       <mj-column>
-        <mj-image width="200px" src="https://ci3.googleusercontent.com/meips/ADKq_NZuULWRhTrd0LRFsVf-WYfHZGjOgn0bEBRIRVXLaASqWPpmCW8tG8fSxLodJPE3RsRWKrDscuzkjJ4FKLuNGUCkH1CEJcNo_8u23MoB4P6_hp4EHEJ3zz0kn8hoS79jdgselexCA6TL1O0WmC9RYPcsplF8MUYJSYxxKg=s0-d-e1-ft#https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/e3ecfe15-374c-4ed3-94ef-b07245d97852.jpeg" />
+        <mj-image width="200px" padding="20px 0" src="https://ci3.googleusercontent.com/meips/ADKq_NZuULWRhTrd0LRFsVf-WYfHZGjOgn0bEBRIRVXLaASqWPpmCW8tG8fSxLodJPE3RsRWKrDscuzkjJ4FKLuNGUCkH1CEJcNo_8u23MoB4P6_hp4EHEJ3zz0kn8hoS79jdgselexCA6TL1O0WmC9RYPcsplF8MUYJSYxxKg=s0-d-e1-ft#https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/e3ecfe15-374c-4ed3-94ef-b07245d97852.jpeg" />
         <mj-divider border-width="1px" border-style="solid" border-color="#000000" padding="0" />
       </mj-column>
     </mj-section>
