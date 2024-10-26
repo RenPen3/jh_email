@@ -1,18 +1,10 @@
 <mjml>
-  <mj-body background-color="#EDEDED">
+  <mj-body background-color="#D3D3D3">
     <!-- header -->
     <mj-section background-color="#FFFFFF" padding="0">
       <mj-column>
-        <mj-image
-          width="200px"
-          src="https://ci3.googleusercontent.com/meips/ADKq_NZuULWRhTrd0LRFsVf-WYfHZGjOgn0bEBRIRVXLaASqWPpmCW8tG8fSxLodJPE3RsRWKrDscuzkjJ4FKLuNGUCkH1CEJcNo_8u23MoB4P6_hp4EHEJ3zz0kn8hoS79jdgselexCA6TL1O0WmC9RYPcsplF8MUYJSYxxKg=s0-d-e1-ft#https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/e3ecfe15-374c-4ed3-94ef-b07245d97852.jpeg"
-        />
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="#000000"
-          padding="0"
-        />
+        <mj-image width="200px" src="https://ci3.googleusercontent.com/meips/ADKq_NZuULWRhTrd0LRFsVf-WYfHZGjOgn0bEBRIRVXLaASqWPpmCW8tG8fSxLodJPE3RsRWKrDscuzkjJ4FKLuNGUCkH1CEJcNo_8u23MoB4P6_hp4EHEJ3zz0kn8hoS79jdgselexCA6TL1O0WmC9RYPcsplF8MUYJSYxxKg=s0-d-e1-ft#https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/e3ecfe15-374c-4ed3-94ef-b07245d97852.jpeg" />
+        <mj-divider border-width="1px" border-style="solid" border-color="#000000" padding="0" />
       </mj-column>
     </mj-section>
     <!-- banner -->
@@ -21,22 +13,13 @@
         <mj-text text-transform="uppercase" align="center" padding="10px 0">
           It’s on us: Free Shipping & Returns
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="#000000"
-          padding="0"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="#000000" padding="0" />
       </mj-column>
     </mj-section>
     <!-- hero -->
     <mj-section background-color="#FFFFFF" padding="0">
       <mj-column>
-        <mj-image
-          width="600px"
-          padding="0"
-          src="https://ci3.googleusercontent.com/meips/ADKq_NY7pkaG5_cxx5b0kt4sg0PEQ3BiqVUXyrBR9kh7Otc8u5mlpdLfWR9PHpAQWmSxxJ8J5qak1VbMZIC6iGsmcE3a4jsqRaLDVkww0YID7A40uS7KhZq_x8n8I7mk2lctnhieblfPedcwikSD9rK0JR-KjSmyTOQe2hjfRw=s0-d-e1-ft#https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/dd03cf03-e076-450d-baca-f2af8cb620cd.jpeg"
-        />
+        <mj-image width="600px" padding="0" src="https://ci3.googleusercontent.com/meips/ADKq_NY7pkaG5_cxx5b0kt4sg0PEQ3BiqVUXyrBR9kh7Otc8u5mlpdLfWR9PHpAQWmSxxJ8J5qak1VbMZIC6iGsmcE3a4jsqRaLDVkww0YID7A40uS7KhZq_x8n8I7mk2lctnhieblfPedcwikSD9rK0JR-KjSmyTOQe2hjfRw=s0-d-e1-ft#https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/dd03cf03-e076-450d-baca-f2af8cb620cd.jpeg" />
       </mj-column>
     </mj-section>
     <!-- banner 2 & CTA -->
@@ -44,128 +27,108 @@
       <mj-column width="400px">
         <mj-text align="center" line-height="24px">
           The New York fashion influencer, entrepreneur, and supermom shares her
-          current John Hardy obsessions.</mj-text
-        >
-        <mj-button
-          href="#"
-          text-transform="uppercase"
-          background-color="#FFFFFF"
-          color="#000000"
-          border="1px solid #000000"
-          border-radius="0"
-          >Shop The Edit</mj-button
-        >
+          current John Hardy obsessions.</mj-text>
+        <mj-button href="#" text-transform="uppercase" background-color="#FFFFFF" color="#000000" border="1px solid #000000" border-radius="0" width="200px">Shop The Edit</mj-button>
       </mj-column>
     </mj-section>
     <!-- product 1 -->
     <mj-section background-color="#FFFFFF" padding="0">
       <mj-column>
-        <mj-image
-          width="600px"
-          padding="0"
-          src="https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/2f566b3e-669e-485a-ac44-24f430843000.jpeg"
-        />
+        <mj-image width="600px" padding="0" src="https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/2f566b3e-669e-485a-ac44-24f430843000.jpeg" />
       </mj-column>
     </mj-section>
     <!-- product 2 -->
     <mj-section background-color="#FAFAFA" padding="0">
       <mj-column>
-        <mj-image
-          width="600px"
-          padding="0"
-          src="https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/5d68b6de-f72f-43c2-a859-510bc7c81e75.jpeg"
-        />
+        <mj-image width="600px" padding="0" src="https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/5d68b6de-f72f-43c2-a859-510bc7c81e75.jpeg" />
       </mj-column>
     </mj-section>
     <!-- product 3 -->
     <mj-section background-color="#FFFFFF" padding="0">
       <mj-column>
-        <mj-image
-          width="600px"
-          padding="0"
-          src="https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/48ed9be7-7fef-4182-beea-1649ff956bba.jpeg"
-        />
+        <mj-image width="600px" padding="0" src="https://d3k81ch9hvuctc.cloudfront.net/company/SZqkEH/images/48ed9be7-7fef-4182-beea-1649ff956bba.jpeg" />
       </mj-column>
     </mj-section>
-    <!-- banner 3 & CTA 2 -->
-    <mj-section background-color="#FFFFFF" padding="0">
+    <!-- CTA 2 -->
+    <mj-section background-color="#FFFFFF" padding="0 0 50px 0">
       <mj-column>
-        <mj-button
-          href="#"
-          text-transform="uppercase"
-          background-color="#FFFFFF"
-          color="#000000"
-          border="1px solid #000000"
-          border-radius="0"
-          >Shop Arielle's Picks
+        <mj-button href="#" text-transform="uppercase" background-color="#FFFFFF" color="#000000" border="1px solid #000000" border-radius="0" width="200px">Shop Arielle's Picks
         </mj-button>
       </mj-column>
     </mj-section>
     <!-- option 1&2 -->
-    <mj-section background-color="#FFFFFF">
-      <mj-column width="50%">
-        <mj-text align="center" text-transform="uppercase">
-          Best Sellers
-        </mj-text>
-      </mj-column>
-      <mj-column width="50%">
-        <mj-text align="center" text-transform="uppercase">
-          New Arrivals
-        </mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-wrapper background-color="#FFFFFF" padding="0">
+
+      <mj-section background-color="#FFFFFF" border-top="1px solid #000000" padding="0">
+        <mj-column width="50%">
+          <mj-text align="center" text-transform="uppercase" padding="50px 0">
+            <a href="#" style="color: #000000;text-decoration: none;">Best Sellers</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%" border-left="1px solid #000000">
+          <mj-text align="center" text-transform="uppercase" padding="50px 0">
+            <a href="#" style="color: #000000;text-decoration: none;">New Arrivals</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
     <!-- option 3&4 -->
-    <mj-section background-color="#FFFFFF">
-      <mj-column width="50%">
-        <mj-text align="center" text-transform="uppercase">
-          Shop for Her
-        </mj-text>
-      </mj-column>
-      <mj-column width="50%">
-        <mj-text align="center" text-transform="uppercase">
-          Shop for Him
-        </mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-wrapper background-color="#FFFFFF" padding="0">
+      <mj-section background-color="#FFFFFF" border-top="1px solid #000000" padding="0">
+        <mj-column width="50%">
+          <mj-text align="center" text-transform="uppercase" padding="50px 0">
+            <a href="#" style="color: #000000;text-decoration: none;">Shop for Her</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%" border-left="1px solid #000000">
+          <mj-text align="center" text-transform="uppercase" padding="50px 0">
+            <a href="#" style="color: #000000;text-decoration: none;">Shop for Him</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
     <!-- option 5&6 -->
-    <mj-section background-color="#FFFFFF">
-      <mj-column width="50%">
-        <mj-text align="center" text-transform="uppercase">
-          Find A Store
-        </mj-text>
-      </mj-column>
-      <mj-column width="50%">
-        <mj-text align="center" text-transform="uppercase">
-          My Account
-        </mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-wrapper background-color="#FFFFFF" padding="0">
+      <mj-section background-color="#FFFFFF" border-top="1px solid #000000" border-bottom="1px solid #000000" padding="0">
+        <mj-column width="50%">
+          <mj-text align="center" text-transform="uppercase" padding="50px 0">
+            <a href="#" style="color: #000000;text-decoration: none;">Find A Store</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%" border-left="1px solid #000000">
+          <mj-text align="center" text-transform="uppercase" padding="50px 0">
+            <a href="#" style="color: #000000;text-decoration: none;">My Account</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
     <!-- banner footer -->
     <mj-section background-color="#FFFFFF" padding="0">
-      <mj-column padding="50px 0">
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="#000000"
-          padding="0"
-        />
-        <mj-text text-transform="uppercase" align="center" padding="50px 0">
-          We're Only A Phone Call or Email Away<br />
+      <mj-column padding="50px 0 0 0">
+        <mj-text text-transform="uppercase" align="center" padding="0 0 50px 0">
+          We're Only A Phone Call or Email Away<br /><br />
           <small>call 888.838.3022 or email clientcare@johnhardy.com</small>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="#000000"
-          padding="0"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="#000000" padding="0" />
       </mj-column>
     </mj-section>
     <!-- footer -->
-    <mj-section background-color="#FFFFFF">
+    <mj-section background-color="#FFFFFF" padding="30px 0 30px 0">
       <mj-column>
-        <mj-text align="center"> Footer </mj-text>
+        <mj-text align="center" font-size="11px">
+          <p>To ensure delivery to your inbox, please add johnhardy@e.johnhardy.com to your address book.
+          </p>
+          <a href="#" style="color: #000000;text-decoration: none;">Unsubscribe</a> • <a href="#" style="color: #000000;text-decoration: none;">Manage Preferences</a> • <a href="#" style="color: #000000;text-decoration: none;">View in Your Browser</a>
+        </mj-text>
+        <mj-text align="center" font-size="11px">
+          <p>John Hardy, 490 Broadway, 3rd floor<br><br>New York, NY 10012, United States<br><br>©2024 John Hardy Limited
+          </p>
+        </mj-text>
       </mj-column>
     </mj-section>
+
   </mj-body>
 </mjml>
